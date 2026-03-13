@@ -38,11 +38,13 @@ Dashboard interativo desenvolvido no Power BI com foco na análise de desempenho
 |-----------|-----------|
 | Total de Alunos | Quantidade total de matriculados |
 | Taxa de Aprovação | % de alunos aprovados |
-| Total matriculas por turno | Faturamento por curso |
-| Inadimplência | Situação de pagamento das mensalidades |
-| Alunos com DP | Idade média por curso |
-| Alunos Formados | Resumo por alunos |
-
+| Faturaramento | Faturamento por curso |
+| Pago ou Não Pago | Situação de pagamento das mensalidades |
+| Idade | Idade média por curso |
+| Tabela Alunos | Resumo por alunos |
+| Alunos | Filtragem Alunos |
+| Campus | Filtragem Campus |
+| Curso | Filtragem Curso |
 ---
 
 ## 🖼️ Preview do Dashboard
